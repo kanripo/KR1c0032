@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩纘緒
-#+DATE: 2015-09-23 09:36:48
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:05:31.222569
+#+PROPERTY: ID KR1c0032
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1c0032_WYG_006-1a>¶
 欽定四庫全書¶
 　詩纘緒卷六　　　　　　元　劉玉汝　撰¶
@@ -284,4 +286,3 @@
 <pb:KR1c0032_WYG_006-16b>¶
 　即去其君之意忠厚之道也末章末句變文所以¶
 　結也¶
-

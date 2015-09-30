@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩纘緒
-#+DATE: 2015-09-23 09:36:48
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 22:05:31.309650
+#+PROPERTY: ID KR1c0032
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR1c0032_WYG_011-1a>¶
 欽定四庫全書¶
 　詩纘緖卷十一　　　　　元　劉玉汝　撰¶
@@ -494,4 +496,3 @@
 　風行乎天下矣非在上躬行而身敎何以能此哉𫝊¶
 　謂此十篇當為正雅又據籥章疑此四篇當為豳雅¶
 　豳雅即正雅也其作于成王周公時尤可無疑矣¶
-

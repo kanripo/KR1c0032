@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩纘緒
-#+DATE: 2015-09-23 09:36:48
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:05:31.190169
+#+PROPERTY: ID KR1c0032
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1c0032_WYG_004-1a>¶
 欽定四庫全書¶
 　詩纘緒卷四　　　　　　元　劉玉汝　撰¶
@@ -400,4 +402,3 @@
 　贄用榛栗棗脩然非投又無報而欲以此永好其情¶
 <pb:KR1c0032_WYG_004-23a>¶
 　似未得其正是以傳為此説與¶
-

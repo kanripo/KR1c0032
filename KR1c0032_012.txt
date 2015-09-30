@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩纘緒
-#+DATE: 2015-09-23 09:36:48
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:05:31.335091
+#+PROPERTY: ID KR1c0032
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR1c0032_WYG_012-1a>¶
 欽定四庫全書¶
 　詩纉緒卷十二　　　　　元　劉玉汝　撰¶
@@ -457,4 +459,3 @@
 何人不矜哀我征夫獨為匪民　匪兕匪虎率彼曠野¶
 哀我征夫朝夕不暇　有芃者狐率彼幽草有棧之車¶
 行彼周道(按此二篇永/樂大典缺卷)¶
-

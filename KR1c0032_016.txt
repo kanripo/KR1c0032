@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩纘緒
-#+DATE: 2015-09-23 09:36:48
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 22:05:31.399237
+#+PROPERTY: ID KR1c0032
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六
 <pb:KR1c0032_WYG_016-1a>¶
 欽定四庫全書¶
 　詩纘緒卷十六　　　　　元　劉玉汝　撰¶
@@ -419,4 +421,3 @@
 <pb:KR1c0032_WYG_016-24a>¶
 命有如召公日辟國百里今也日蹙國百里於乎哀哉¶
 維今之人不尚有舊(按此篇永樂/大典缺卷)¶
-

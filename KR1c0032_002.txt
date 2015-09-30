@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩纘緒
-#+DATE: 2015-09-23 09:36:48
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:05:31.156539
+#+PROPERTY: ID KR1c0032
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1c0032_WYG_002-1a>¶
 欽定四庫全書¶
 　詩纘緒卷二　　　　　　元　劉玉汝　撰¶
@@ -242,4 +244,3 @@
 　而相對有乾統坤承之義焉然其相似者不必真相¶
 　似相對者不必真相對又有乾一坤二乾純坤雜之¶
 　義焉皆可以意觀之¶
-

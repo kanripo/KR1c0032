@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩纘緒
-#+DATE: 2015-09-23 09:36:48
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:05:31.141644
+#+PROPERTY: ID KR1c0032
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1c0032_WYG_001-1a>¶
 欽定四庫全書¶
 　詩纘緒卷一　　　　　　元　劉玉汝　撰¶
@@ -274,4 +276,3 @@
 麟之趾振振公子于嗟麟兮　麟之定振振公姓于嗟¶
 <pb:KR1c0032_WYG_001-16a>¶
 麟兮　麟之角振振公族于嗟麟兮(案此篇永樂/大典失載)¶
-

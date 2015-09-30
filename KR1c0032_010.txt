@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩纘緒
-#+DATE: 2015-09-23 09:36:48
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:05:31.294173
+#+PROPERTY: ID KR1c0032
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR1c0032_WYG_010-1a>¶
 欽定四庫全書¶
 　詩纉緒卷十　　　　　元　劉玉汝　撰¶
@@ -530,4 +532,3 @@
 　無任我之事既又為母自嘆而為絶望之辭以寛褒¶
 　姒之讒妬庶幾王之或悟母子之猶可保也故以此¶
 　而終篇焉谷風去婦告新昏亦用此四句¶
-

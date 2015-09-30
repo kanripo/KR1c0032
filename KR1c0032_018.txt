@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩纘緒
-#+DATE: 2015-09-23 09:36:48
-#+PROPERTY: JUAN 18
+#+DATE: 2015-08-24 22:05:31.443264
+#+PROPERTY: ID KR1c0032
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十八
 <pb:KR1c0032_WYG_018-1a>¶
 欽定四庫全書¶
 　詩纘緒巻十八　　　　　元　劉玉汝　撰¶
@@ -270,4 +272,3 @@
 　侯之畏服四章言高宗勤身心謹刑賞以治民五章¶
 　言高宗政治整飭於内聲靈赫顯于外夀康兼備于¶
 　身以保後人末章始見廟成始祔而祭作此詩也¶
-
